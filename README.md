@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/510895555321266188/903489102903652402/PSX_20211028_224250.jpg">
+<img src="https://cdn.discordapp.com/attachments/510895555321266188/903690399061803078/image.png">
 
 <h1 align="center">Estudiante de programación autodidacta</h1>
 
@@ -33,7 +33,7 @@
 </p>
 
 <h2 align="center">Estadísticas de mi perfil</h2>
-<p align="center">Recien estoy comenzando a colaborar en pequeños proyectos</p>
+<p align="center">Recien estoy comenzando a colaborar en pequeños proyectos, tengo un año desarrollando</p>
 
 <p align="center">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=SublimeDevv&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"></img>
@@ -48,7 +48,7 @@
 <h2 align="center">Proyectos en los que estoy trabajando actualmente</h2>
 <p align="center">
 <a href="https://top.gg/bot/700461704043036772">
-<img src="https://cdn.discordapp.com/attachments/875840957025755136/878130818294382653/PicsArt_08-20-12.16.06.jpg" width=600px/>
+<img src="https://cdn.discordapp.com/attachments/510895555321266188/903690565344952380/image_1.png" width=600px/>
 </a>
 <p align="center">Jojoestar es mi primer proyecto Oficial, un bot de JoJo's Bizarre Adventure, está escrito en Javascript (ES6) con Node.js y que próximamente pasará a tener cambios en las tecnologías, empezando a usar TypeScript y Eris wrapper de Discord.</p>
 </p>
@@ -57,3 +57,5 @@
 <img src="https://cdn.discordapp.com/attachments/510895555321266188/903653255521923152/1633969775531.png" width=300px/>
 <p align="center">GoScript es un proyecto para el servidor del YouTuber GoDeik. Cuenta con funciones de moderación y registros, también algunos de búsqueda para los usuarios. El proyecto usa Javascript (ES6) y discord.js-light como wrapper.</p>
 </p>
+
+
