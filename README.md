@@ -1,10 +1,10 @@
 <img src="https://cdn.discordapp.com/attachments/510895555321266188/903489102903652402/PSX_20211028_224250.jpg">
 
-<h1 align="center">Soy un estudiante de programación que le encanta ser autodidacta</h1>
+<h1 align="center">Estudiante de programación autodidacta</h1>
 
 <h2 align="center"> Un poco más acerca de mí</h2>
 
-<p align="center">Me gusta todo lo que es desconocido, actualmente estoy trabajando en proyectos muy pequeños para obtener experiencia y lograr más cosas de grande escala en un futuro no muy lejano. Aparte de la programación me encantan los videojuegos y soy fan de los retro.</p>
+<p align="center">Me gusta todo lo que es desconocido. Actualmente estoy trabajando en proyectos muy pequeños para obtener experiencia y lograr más cosas de grande escala en un futuro no muy lejano. Aparte de la programación me encantan los videojuegos, en especial los Retro.</p>
 
 
 
@@ -47,5 +47,13 @@
 
 <h2 align="center">Proyectos en los que estoy trabajando actualmente</h2>
 <p align="center">
-<a href="https://top.gg/bot/700461704043036772"> <img src="https://cdn.discordapp.com/attachments/875840957025755136/878130818294382653/PicsArt_08-20-12.16.06.jpg" width=600px>
+<a href="https://top.gg/bot/700461704043036772">
+<img src="https://cdn.discordapp.com/attachments/875840957025755136/878130818294382653/PicsArt_08-20-12.16.06.jpg" width=600px/>
+</a>
+<p align="center">Jojoestar es mi primer proyecto Oficial, un bot de JoJo's Bizarre Adventure, está escrito en Javascript (ES6) con Node.js y que próximamente pasará a tener cambios en las tecnologías, empezando a usar TypeScript y Eris wrapper de Discord.</p>
+</p>
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/510895555321266188/903653255521923152/1633969775531.png" width=300px/>
+<p align="center">GoScript es un proyecto para el servidor del YouTuber GoDeik. Cuenta con funciones de moderación y registros, también algunos de búsqueda para los usuarios. El proyecto usa Javascript (ES6) y discord.js-light como wrapper.</p>
 </p>
