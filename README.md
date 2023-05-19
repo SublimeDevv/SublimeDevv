@@ -22,14 +22,14 @@
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img src="https://img.icons8.com/color/48/000000/webpack.png"/>
+<!-- <img src="https://img.icons8.com/color/48/000000/webpack.png"/> -->
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+<!-- <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> -->
 </p>
 
 <h2 align="center">Estadísticas de mi perfil</h2>
