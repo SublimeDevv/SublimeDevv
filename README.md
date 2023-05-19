@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/510895555321266188/903690399061803078/image.png">
 
-<h1 align="center">Estudiante de programación autodidacta</h1>
+<h1 align="center">Estudiante de programación</h1>
 
 <h2 align="center"> Un poco más acerca de mí</h2>
 
@@ -14,7 +14,7 @@
 
 <h2 align="center">Habilidades</h2>
 
-<p align="center">Herramientas de las que tengo conocimiento</p>
+<p align="center">Herramientas que estoy tratando de comprender</p>
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/linux.png"/>
