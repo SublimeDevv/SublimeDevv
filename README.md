@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/701571845526126602/1211034164569309264/1708803412565.png?ex=65ecba74&is=65da4574&hm=1b9c8cdfeffafdef675d45d7839b49357c75953ea02d1ec8189937042de2f31b&">
-
 <h1 align="center">Estudiante de programación</h1>
 
 <p align="center">Me gusta todo lo que es desconocido. Actualmente estoy trabajando en proyectos muy pequeños para obtener experiencia y lograr más cosas de grande escala en un futuro no muy lejano. Aparte de la programación me encantan los videojuegos, en especial los Retro.</p>
