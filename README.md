@@ -1,42 +1,69 @@
-<h1 align="center">Estudiante de programación</h1>
+<img src="https://cdn.discordapp.com/attachments/701571845526126602/1211049962293559367/PSX_20211028_224250.jpg?ex=65ecc92b&is=65da542b&hm=0d592aacda53d981742bc963f284517fb4d5704070e09e5204a899e1ffd44273&">
 
-<p align="center">Me gusta todo lo que es desconocido. Actualmente estoy trabajando en proyectos muy pequeños para obtener experiencia y lograr más cosas de grande escala en un futuro no muy lejano. Aparte de la programación me encantan los videojuegos, en especial los Retro.</p>
-
-
+<h2 align="center">¡Hola! Soy SublimeDevv</h2>
+<p align="center">
+  <a href="https://portfolio-sublime.vercel.app/">Portafolio</a> -
+  <a href="https://www.linkedin.com/in/juan-diego-mendoza-u62317">LinkedIn</a>
+</p>
 
 <p align="center">
-<img src="https://th.bing.com/th/id/R.7a4bd182bab48c52737075e28122641b?rik=o9cV%2fwLkGg%2b%2bIQ&riu=http%3a%2f%2fwww.fightersgeneration.com%2fcharacters2%2fjotaro-standx.gif&ehk=6RVfPXuqyQqwSiW4fF%2frC2WruymiHAQVBWOoZE%2bcFbU%3d&risl=&pid=ImgRaw&r=0">
+Desarrollador de software full-stack 24/7
 </p>
+
+[]() <div align="center">[![GitHub SublimeDevv](https://img.shields.io/github/followers/SublimeDevv?label=follow&style=social)](https://github.com/SublimeDevv) ![](https://komarev.com/ghpvc/?username=SublimeDevv&color=red)</div>
 
 <h2 align="center">Habilidades</h2>
 
-<p align="center">Herramientas que estoy tratando de comprender</p>
+<div align="center">
+  <p>Lenguajes de Programación</p>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/php" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
 
+  <p>Frameworks y Librerías</p>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/express" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />
+
+  <p>Bases de Datos</p>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/oracle" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
+
+  <p>Servidores y Sistemas Operativos</p>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/apache" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/digitalocean" />
+
+  <p>Herramientas de Desarrollo</p>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vim" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />
+</div>
+
+
+<h2 align="center">Estadísticas</h2>
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<!-- <img src="https://img.icons8.com/color/48/000000/webpack.png"/> -->
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-<!-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> -->
-<!-- <img src="https://img.icons8.com/color/48/000000/css3.png"/> -->
-<!-- <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> -->
-</p>
-
-<h2 align="center">Estadísticas de mi perfil</h2>
-<p align="center">Recien estoy comenzando a colaborar en pequeños proyectos, tengo un año desarrollando</p>
-
-<p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=SublimeDevv&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"></img>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SublimeDevv&theme=dracula&show_icons=true"></img>
-</p>
-
-<p align="center">
-<img src="https://th.bing.com/th/id/R.614a87273e025db9a7ea4ff7ae8860e2?rik=7gGVFiLzrGcMHw&riu=http%3a%2f%2fwww.fightersgeneration.com%2fcharacters%2fdio-theworld.gif&ehk=z7bBsK5JQpuYVN93q7fRWNttraPA2WfI%2bMx89ed3dbE%3d&risl=&pid=ImgRaw&r=0">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SublimeDevv&show_icons=true&count_private=true&theme=kacho_ga&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SublimeDevv&layout=compact&hide_border=true&theme=kacho_ga&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=SublimeDevv&theme=kacho_ga&hide_border=true&background=FFFFFF00">
 </p>
