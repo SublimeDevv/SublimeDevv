@@ -2,8 +2,6 @@
 
 <h1 align="center">Estudiante de programación</h1>
 
-<h2 align="center"> Un poco más acerca de mí</h2>
-
 <p align="center">Me gusta todo lo que es desconocido. Actualmente estoy trabajando en proyectos muy pequeños para obtener experiencia y lograr más cosas de grande escala en un futuro no muy lejano. Aparte de la programación me encantan los videojuegos, en especial los Retro.</p>
 
 
