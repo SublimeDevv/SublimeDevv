@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/510895555321266188/903690399061803078/image.png">
+<img src="https://cdn.discordapp.com/attachments/701571845526126602/1211034164569309264/1708803412565.png?ex=65ecba74&is=65da4574&hm=1b9c8cdfeffafdef675d45d7839b49357c75953ea02d1ec8189937042de2f31b&">
 
 <h1 align="center">Estudiante de programación</h1>
 
