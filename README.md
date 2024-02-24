@@ -42,19 +42,3 @@
 <p align="center">
 <img src="https://th.bing.com/th/id/R.614a87273e025db9a7ea4ff7ae8860e2?rik=7gGVFiLzrGcMHw&riu=http%3a%2f%2fwww.fightersgeneration.com%2fcharacters%2fdio-theworld.gif&ehk=z7bBsK5JQpuYVN93q7fRWNttraPA2WfI%2bMx89ed3dbE%3d&risl=&pid=ImgRaw&r=0">
 </p>
-
-
-<h2 align="center">Proyectos en los que estoy trabajando actualmente</h2>
-<p align="center">
-<a href="https://top.gg/bot/700461704043036772">
-<img src="https://cdn.discordapp.com/attachments/510895555321266188/903690565344952380/image_1.png" width=600px/>
-</a>
-<p align="center">Jojoestar es mi primer proyecto Oficial, un bot de JoJo's Bizarre Adventure, está escrito en Javascript (ES6) con Node.js y que próximamente pasará a tener cambios en las tecnologías, empezando a usar TypeScript y Eris wrapper de Discord.</p>
-</p>
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/510895555321266188/903653255521923152/1633969775531.png" width=300px/>
-<p align="center">GoScript es un proyecto para el servidor del YouTuber GoDeik. Cuenta con funciones de moderación y registros, también algunos de búsqueda para los usuarios. El proyecto usa Javascript (ES6) y discord.js-light como wrapper.</p>
-</p>
-
-
