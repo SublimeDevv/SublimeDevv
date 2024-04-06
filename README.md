@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/701571845526126602/1211049962293559367/PSX_20211028_224250.jpg?ex=660878ab&is=65f603ab&hm=6c08ebf66d4fb97b598b82700a335ac5d23a1ea954286173f4ef14aa27961986&">
+<img src="https://cdn.discordapp.com/attachments/701571845526126602/1211049962293559367/PSX_20211028_224250.jpg?ex=661aedab&is=660878ab&hm=f9bb0abc60529dd6cd79491ba4362442ba01798212cef585e3883d8da105b0b1&">
 
 <h2 align="center">¡Hola! Soy SublimeDevv</h2>
 <p align="center">
