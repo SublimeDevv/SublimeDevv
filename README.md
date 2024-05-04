@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/701571845526126602/1211049962293559367/PSX_20211028_224250.jpg?ex=661aedab&is=660878ab&hm=f9bb0abc60529dd6cd79491ba4362442ba01798212cef585e3883d8da105b0b1&">
-
 <h2 align="center">¡Hola! Soy SublimeDevv</h2>
 <p align="center">
   <a href="https://portfolio-sublime.vercel.app/">Portafolio</a> -
