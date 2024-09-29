@@ -49,7 +49,6 @@ Desarrollador de software full-stack 24/7
 
   <p>Herramientas de Desarrollo</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/vim" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/yarn" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
