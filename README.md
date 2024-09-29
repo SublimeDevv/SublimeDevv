@@ -22,7 +22,6 @@ Desarrollador de software full-stack 24/7
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/rust" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
 
   <p>Frameworks y Librerías</p>
   <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
