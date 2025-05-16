@@ -36,7 +36,6 @@ Desarrollador de software full-stack 24/7
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/redis" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/oracle" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />
 
   <p>Servidores y Sistemas Operativos</p>
